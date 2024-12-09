@@ -1,3 +1,4 @@
+import { Button } from "@/components/ui/button";
 
 
 export default function Home() {
@@ -5,6 +6,7 @@ export default function Home() {
 
     <main>
       <h1>Welcome to pizza shop </h1>
+      <Button variant='outline'>Click me</Button>
     </main>
   );
 }
