@@ -7,7 +7,7 @@ import { Button } from '../ui/button'
 const Header = () => {
     return (
         <header className='bg-white'>
-            <nav className='container py-5 flex items-center px-40 justify-between'>
+            <nav className='container mx-auto py-5 flex items-center justify-between'>
 
                 <div className='flex items-center space-x-4'>
                     <svg
